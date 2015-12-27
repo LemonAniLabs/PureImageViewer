@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Dede_1-1.png</file>
+        <file>Image/Dede_1-2.png</file>
+        <file>Image/Dede_1-3.png</file>
+        <file>Image/Dede_1-4.png</file>
+        <file>Image/Dede_1-5.png</file>
+        <file>Image/Dede_1-6.png</file>
+        <file>Image/Dede_1-7.png</file>
+        <file>Image/Dede_1-8.png</file>
+        <file>Image/Dede_1-9.png</file>
+        <file>Image/Dede_1-10.png</file>
+        <file>Image/Dede_1-11.png</file>
+        <file>Image/Inc_1-1.png</file>
+        <file>Image/Popo_1-1.png</file>
+        <file>Image/Popo_1-2.png</file>
+        <file>Image/Touch_1-1.png</file>
+        <file>Image/Touch_1-2.png</file>
+    </qresource>
+</RCC>
